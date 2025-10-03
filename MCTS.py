@@ -424,6 +424,3 @@ class MCTS():
                 M[a] = np.min(min_list)
             best_act = max(M, key=lambda x:M[x])
         return best_act
-    
-      
-        
