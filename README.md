@@ -1,7 +1,3 @@
-好的 👍 我来帮你写一个合适的 **README.md**，基于你的项目结构（`tictactoe_with_AOAT-MCTS`），既能说明用途，又能指导使用。以下内容你可以直接保存为 `README.md`：
-
----
-
 # TicTacToe with AOAT-MCTS
 
 本项目实现了一个基于 **神经网络 + 蒙特卡洛树搜索（MCTS）** 的井字棋（Tic-Tac-Toe）智能体，并引入了 **AOAT（Adaptive Optimistic Action Truncation）节点选择策略** 来提升模型的决策效率和博弈性能。
